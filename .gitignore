@@ -1,0 +1,35 @@
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+/node_modules
+npm-debug.log
+
+# type script artifacts
+/typings
+
+# WebStorm
+.idea
+
+# ignore build and dist for now
+/bundles
+/demo-build
+/dist
+/coverage
+/ts
+
+/demo/**/*.js
+/demo/**/*.js.map
+/demo/**/*.d.ts
+!/demo/custom-typings.d.ts
+/components/**/*.js
+/components/**/*.js.map
+/components/**/*.d.ts
+ng2-table.js
+ng2-table.js.map
+ng2-table.d.ts
+
+/logs
+
+factories
+
+/**/*.metadata.json
+/**/*.ngfactory.ts
