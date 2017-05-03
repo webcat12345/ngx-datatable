@@ -1,7 +1,7 @@
 {
   "name": "ngx-datatable",
-  "version": "1.0.0",
-  "description": "Simple angular2 table components with sorting, filtering...",
+  "version": "1.0.1",
+  "description": "Simple Angular table components with sorting, filtering...",
   "scripts": {
     "flow.compile": "npm run flow.compile:common && npm run flow.compile:system ",
     "flow.compile:common": "ngc -p tsconfig.publish.json",
@@ -31,21 +31,21 @@
   "typings": "ng2-table.d.ts",
   "keywords": [
     "angular2",
-    "angularjs",
+    "angular4",
     "table",
     "filter",
     "sort"
   ],
-  "author": "Dmitriy Shekhovtsov <valorkin@gmail.com>",
+  "author": "webcat12345",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/valor-software/ng2-table.git"
+    "url": "git+ssh://git@github.com/webcat12345/ngx-datatable.git"
   },
   "bugs": {
-    "url": "https://github.com/valor-software/ng2-table/issues"
+    "url": "https://github.com/webcat12345/ngx-datatable/issues"
   },
-  "homepage": "https://github.com/valor-software/ng2-table#readme",
+  "homepage": "https://github.com/webcat12345/ngx-datatable#readme",
   "dependencies": {},
   "peerDependencies": {
     "@angular/common": "^2.0.0",
