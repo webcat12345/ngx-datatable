@@ -21,7 +21,8 @@ export class TableDemoComponent implements OnInit {
     {title: 'Office', className: ['office-header', 'text-success'], name: 'office', sort: 'asc'},
     {title: 'Extn.', name: 'ext', sort: '', filtering: {filterString: '', placeholder: 'Filter by extn.'}},
     {title: 'Start date', className: 'text-warning', name: 'startDate'},
-    {title: 'Salary ($)', name: 'salary'}
+    {title: 'Salary ($)', name: 'salary'},
+    {title: 'Buttons', name: 'button'}
   ];
   public page:number = 1;
   public itemsPerPage:number = 10;
@@ -39,6 +40,9 @@ export class TableDemoComponent implements OnInit {
   private data:Array<any> = TableData;
 
   public constructor() {
+    this.data.forEach(item => {
+      item['button'] = '<a class="action-btn history"><i class="fa fa-history" aria-hidden="true"></i></a>';
+    });
     this.length = this.data.length;
   }
 

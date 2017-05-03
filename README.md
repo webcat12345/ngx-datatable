@@ -1,15 +1,11 @@
-# ng2-table [![npm version](https://badge.fury.io/js/ng2-table.svg)](http://badge.fury.io/js/ng2-table)
-Simple table extension with sorting, filtering, paging... for Angular2 apps
+# ngx-table [![npm version](https://badge.fury.io/js/ngx-datatable.svg)](http://badge.fury.io/js/ngx-datatable)
+Simple table extension with sorting, filtering, paging... for Angular apps
 
-Follow me [![twitter](https://img.shields.io/twitter/follow/valorkin.svg?style=social&label=%20valorkin)](https://twitter.com/valorkin) to be notified about new releases.
-
-[![Angular 2 Style Guide](https://mgechev.github.io/angular2-style-guide/images/badge.svg)](https://github.com/mgechev/angular2-style-guide)
-[![Build Status](https://travis-ci.org/valor-software/ng2-table.svg?branch=master)](https://travis-ci.org/valor-software/ng2-table)
-[![Code Climate](https://codeclimate.com/github/valor-software/ng2-table/badges/gpa.svg)](https://codeclimate.com/github/valor-software/ng2-table)
-[![Join the chat at https://gitter.im/valor-software/ng2-bootstrap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/valor-software/ng2-bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Dependency Status](https://david-dm.org/valor-software/ng2-table.svg)](https://david-dm.org/valor-software/ng2-table)
-[![devDependency Status](https://david-dm.org/valor-software/ng2-table/dev-status.svg)](https://david-dm.org/valor-software/ng2-table#info=devDependencies)
-[![Throughput Graph](https://graphs.waffle.io/valor-software/ng2-table/throughput.svg)](https://waffle.io/valor-software/ng2-table/metrics)
+[![Build Status](https://travis-ci.org/webcat12345/ngx-datatable.svg?branch=master)](https://travis-ci.org/webcat12345/ngx-datatable)
+[![Code Climate](https://codeclimate.com/github/webcat12345/ngx-datatable/badges/gpa.svg)](https://codeclimate.com/github/webcat12345/ngx-datatable)
+[![Dependency Status](https://david-dm.org/webcat12345/ngx-datatable.svg)](https://david-dm.org/webcat12345/ngx-datatable)
+[![devDependency Status](https://david-dm.org/webcat12345/ngx-datatable/dev-status.svg)](https://david-dm.org/webcat12345/ngx-datatable#info=devDependencies)
+[![Throughput Graph](https://graphs.waffle.io/webcat12345/ngx-datatable/throughput.svg)](https://waffle.io/webcat12345/ngx-datatable/metrics)
 
 # Usage & Demo
 [http://valor-software.github.io/ng2-table/](http://valor-software.github.io/ng2-table/)
@@ -19,16 +15,16 @@ Follow me [![twitter](https://img.shields.io/twitter/follow/valorkin.svg?style=s
 
 ## Installation
 
-1. A recommended way to install ***ng2-table*** is through [npm](https://www.npmjs.com/search?q=ng2-table) package manager using the following command:
+1. A recommended way to install ***ngx-datatable*** is through [npm](https://www.npmjs.com/search?q=ngx-datatable) package manager using the following command:
 
   ```bash
-  npm i ng2-table --save
+  npm i ngx-datatable --save
   ```
 
-  Alternatively, you can [download it in a ZIP file](https://github.com/valor-software/ng2-table/archive/master.zip).
+  Alternatively, you can [download it in a ZIP file](https://github.com/webcat12345/ngx-datatable/archive/master.zip).
 
-2. More information regarding using of ***ng2-table*** is located in
-  [demo](http://valor-software.github.io/ng2-table/) and [demo sources](https://github.com/valor-software/ng2-table/tree/master/demo).
+2. More information regarding using of ***ngx-table*** is located in
+  [demo](http://valor-software.github.io/ng2-table/) and [demo sources](https://github.com/webcat12345/ngx-datatable/tree/master/demo).
 
 ## Documentation
 
@@ -84,11 +80,11 @@ Pagination could be used from [ng2-bootstrap](https://github.com/valor-software/
 
 Please follow this guidelines when reporting bugs and feature requests:
 
-1. Use [GitHub Issues](https://github.com/valor-software/ng2-table/issues) board to report bugs and feature requests (not our email address)
+1. Use [GitHub Issues](https://github.com/webcat12345/ngx-datatable/issues) board to report bugs and feature requests (not our email address)
 2. Please **always** write steps to reproduce the error. That way we can focus on fixing the bug, not scratching our heads trying to reproduce it.
 
 Thanks for understanding!
 
 ### License
 
-The MIT License (see the [LICENSE](https://github.com/valor-software/ng2-table/blob/master/LICENSE) file for the full text)
+The MIT License
