@@ -18,7 +18,7 @@ marked.Renderer.prototype.code = function renderCode(code, lang) {
 };
 
 // Look in ./config folder for webpack.dev.js
-const conf = getWebpackConfig(process.env.NODE_ENV, require('./.ng2-config'));
+const conf = getWebpackConfig(process.env.NODE_ENV, require('./.ngx-config.js'));
 
 conf.markdownLoader = {
   langPrefix: 'language-',
