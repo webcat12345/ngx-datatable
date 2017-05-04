@@ -1,6 +1,6 @@
 {
   "name": "ngx-datatable",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Simple Angular table components with sorting, filtering...",
   "scripts": {
     "flow.compile": "npm run flow.compile:common && npm run flow.compile:system ",
