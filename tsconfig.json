@@ -23,7 +23,7 @@
   ],
   "files": [
     "./demo/custom-typings.d.ts",
-    "./ng2-table.ts"
+    "./ngx-datatable.ts"
   ],
   "atom": { "rewriteTsconfig": false }
 }

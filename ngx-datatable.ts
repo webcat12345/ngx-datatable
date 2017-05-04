@@ -21,4 +21,4 @@ export default {
   ]
 };
 
-export { Ng2TableModule } from './components/ng-table-module';
+export { NgxDataTableModule } from './components/ng-table-module';

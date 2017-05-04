@@ -23,9 +23,9 @@ npm-debug.log
 /components/**/*.js
 /components/**/*.js.map
 /components/**/*.d.ts
-ng2-table.js
-ng2-table.js.map
-ng2-table.d.ts
+ngx-datatable.js
+ngx-datatable.js.map
+ngx-datatable.d.ts
 
 /logs
 

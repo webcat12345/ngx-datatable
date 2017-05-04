@@ -5,5 +5,5 @@ if (ENV === 'production') {
   enableProdMode();
 }
 
-import { Ng2TableDemoModule } from './demo.module';
-platformBrowserDynamic().bootstrapModule(Ng2TableDemoModule);
+import { NgxDataTableDemoModule } from './demo.module';
+platformBrowserDynamic().bootstrapModule(NgxDataTableDemoModule);

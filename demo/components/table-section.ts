@@ -11,7 +11,7 @@ let html = require('!!prismjs?lang=markup!./table/table-demo.html');
 })
 export class TableSectionComponent {
   public name:string = 'Table';
-  public src:string = 'https://github.com/valor-software/ng2-table/tree/master/components/table';
+  public src:string = 'https://github.com/webcat12345/ngx-datatable/tree/master/components/table';
   public ts:string = ts;
   public doc:string = doc;
   public titleDoc:string = titleDoc;

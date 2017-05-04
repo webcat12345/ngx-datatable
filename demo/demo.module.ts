@@ -6,7 +6,7 @@ import { CommonModule } from '@angular/common';
 import { PaginationModule } from 'ng2-bootstrap/ng2-bootstrap';
 import { TabsModule } from 'ng2-bootstrap/ng2-bootstrap';
 
-import { Ng2TableModule } from '../components/ng-table-module';
+import { NgxDataTableModule } from '../components/ng-table-module';
 
 import { TableDemoComponent } from './components/table/table-demo';
 import { TableSectionComponent } from './components/table-section';
@@ -22,7 +22,7 @@ import { DemoComponent } from './demo.component';
   imports: [
     BrowserModule,
     FormsModule,
-    Ng2TableModule,
+    NgxDataTableModule,
     PaginationModule,
     TabsModule,
     CommonModule
@@ -31,5 +31,5 @@ import { DemoComponent } from './demo.component';
   bootstrap: [DemoComponent]
 })
 
-export class Ng2TableDemoModule {
+export class NgxDataTableDemoModule {
 }

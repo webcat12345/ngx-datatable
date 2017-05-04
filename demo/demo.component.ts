@@ -7,12 +7,12 @@ let gettingStarted = require('./getting-started.md');
   template: `
     <main class="bd-pageheader">
       <div class="container">
-        <h1>ng2-table</h1>
-        <p>Native Angular2 directives for Table</p>
-        <a class="btn btn-primary" href="https://github.com/valor-software/ng2-table">View on GitHub</a>
+        <h1>ngx-datatable</h1>
+        <p>Native Angular directives for Table</p>
+        <a class="btn btn-primary" href="https://github.com/webcat12345/ngx-datatable">View on GitHub</a>
         <div class="row">
-         <div class="col-lg-1"><iframe src="https://ghbtns.com/github-btn.html?user=valor-software&repo=ng2-table&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe></div>
-          <div class="col-lg-1"><iframe src="https://ghbtns.com/github-btn.html?user=valor-software&repo=ng2-table&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe></div>
+         <div class="col-lg-1"><iframe src="https://ghbtns.com/github-btn.html?user=webcat12345&repo=ngx-datatable&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe></div>
+          <div class="col-lg-1"><iframe src="https://ghbtns.com/github-btn.html?user=webcat12345&repo=ngx-datatable&type=fork&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe></div>
         </div>
       </div>
     </main>
@@ -25,7 +25,7 @@ let gettingStarted = require('./getting-started.md');
   
     <footer class="footer">
       <div class="container">
-        <p class="text-muted text-center"><a href="https://github.com/valor-software/ng2-table">ng2-table</a> is maintained by <a href="https://github.com/valor-software">valor-software</a>.</p>
+        <p class="text-muted text-center"></p>
       </div>
     </footer>
   `
